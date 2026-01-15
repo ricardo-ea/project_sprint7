@@ -1,4 +1,3 @@
-conda install plotly::plotly_express
-conda install anaconda::pandas
-conda install conda-forge::streamlit
-conda install -n myenv nbformat
+pandas
+plotly_express
+streamlit
